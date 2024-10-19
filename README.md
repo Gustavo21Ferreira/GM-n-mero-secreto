@@ -15,3 +15,5 @@ E como projeto final do curso lógica da programação com javascript criamos um
 ### Gustavo Ferreira  Ribeiro
 
 ### Linkedin: https://www.linkedin.com/in/gustavo-front-end/
+
+### Deploy: https://gustavo21ferreira.github.io/GM-numero-secreto/
